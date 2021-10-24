@@ -58,12 +58,13 @@
 		<img align="center" src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" />
 	</a>
 </p>
+
 <!-- End of links for contact -->
 
 <br><br><br>
 
 <!-- Github graphs -->
-<h1 align="center"><img align="center"  src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width="50px">&nbsp; Github Stats ! &nbsp;<img align="center" src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width="50px">
+<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50px">&nbsp; Github Stats ! &nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50px">
 </h1>
 <br><br><br>
 <p align="center">
