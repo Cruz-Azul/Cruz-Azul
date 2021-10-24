@@ -34,7 +34,7 @@
 <br><br><br>
 
 <!-- Links for contact -->
-<h1 align="center"><img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with Me ! <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60px">&nbsp;&nbsp; Connect with Me ! &nbsp;&nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60px">
 </h1>
 <br><br><br>
 <p align="center">
