@@ -1,13 +1,19 @@
 <p align="center">
-  	<img src="https://readme-typing-svg.herokuapp.com?color=%2321B9CB&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B+I'm+Micka%C3%ABl+Alves+aka+Cruz+Azul+%F0%9F%94%B5">
+	<img src="https://user-images.githubusercontent.com/60877626/138601059-95ee36dc-5e15-4b0b-b88b-338df28f8b30.png">
 </p>
 
-<br><br>
+<br>
+
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?color=%2321B9CB&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B+I'm+Micka%C3%ABl+Alves+aka+Cruz+Azul+%F0%9F%94%B5">
+</p>
+
+<br><br><br>
 
 <!-- Technologies -->
 <h1 align="center"><img align="center" src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width="40px">&nbsp;&nbsp;&nbsp; Languages and Tools ! &nbsp;&nbsp;&nbsp;<img align="center" src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width="40px">
 </h1>
-<br><br>
+<br><br><br>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,12 +31,12 @@
 </div>
 <!-- End of technologies -->
 
-<br><br>
+<br><br><br>
 
 <!-- Links for contact -->
 <h1 align="center"><img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with Me ! <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h1>
-<br><br>
+<br><br><br>
 <p align="center">
 	<a href="https://freshidea.com/jonah/"><img align="center" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-21B9CB?style=for-the-badge&logo=koding&logoColor=white"/></a>
 	</a> &nbsp;
@@ -54,12 +60,12 @@
 </p>
 <!-- End of links for contact -->
 
-<br><br>
+<br><br><br>
 
 <!-- Github graphs -->
 <h1 align="center"><img align="center"  src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width="50px">&nbsp; Github Stats ! &nbsp;<img align="center" src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width="50px">
 </h1>
-<br><br>
+<br><br><br>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=cruz-azul&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruz-azul&layout=compact&hide_border=true&theme=react&bg_color=00000000">
@@ -68,3 +74,10 @@
   <img alt="🐍 Snake graph" src="https://github.com/Cruz-Azul/Cruz-Azul/blob/output/github-contribution-grid-snake.svg">
 </p>
 <!-- End of github graphs -->
+
+<br><br><br>
+
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&center=true&vCenter=true&width=750&lines=Thank+you+for+taking+the+time+to+view+my+GitHub+Profile+%F0%9F%9A%80">
+	
+</p>
