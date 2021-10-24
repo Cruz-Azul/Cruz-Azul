@@ -10,7 +10,7 @@
 
 <h4 align="center">
 	👋🏼 I am a 23 years old French junior developer who is passionate about computers science and new technologies ! 👨🏻‍💻 
-	I have just kickstarted my career as a web consultant at @Zenika 🔴 as well as a front web developer at @BedrockStreaming ⚫️ after completing my master's degree the year 2021 at Lyon 1 University 🦁 Enjoy reading my gihub profile ! 👊🏼
+	I have just kickstarted my career as a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 as well as a front web developer at <a href="https://www.bedrockstreaming.com/">@BedrockStreaming</a> ⚫️ after completing my master's degree the year 2021 at Lyon 1 University 🦁 Enjoy reading my gihub profile ! 👊🏼
 </h4>
 
 <br><br>
