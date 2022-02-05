@@ -32,6 +32,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <!-- End of technologies -->
