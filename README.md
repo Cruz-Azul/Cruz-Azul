@@ -16,7 +16,7 @@
 <br><br>
 
 <!-- Technologies -->
-<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138604414-b936eeb4-de92-4563-8f67-1e97df173db1.gif' width="50px">&nbsp;&nbsp;&nbsp; Languages and Tools ! &nbsp;&nbsp;&nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138604414-b936eeb4-de92-4563-8f67-1e97df173db1.gif' width="50px">
+<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138604414-b936eeb4-de92-4563-8f67-1e97df173db1.gif' width="50">&nbsp;&nbsp;&nbsp; Languages and Tools ! &nbsp;&nbsp;&nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138604414-b936eeb4-de92-4563-8f67-1e97df173db1.gif' width="50">
 </h1>
 <br><br><br>
 <div align="center">
@@ -40,7 +40,7 @@
 <br><br><br>
 
 <!-- Links for contact -->
-<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60px">&nbsp;&nbsp; Connect with Me ! &nbsp;&nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60px">
+<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60">&nbsp;&nbsp; Connect with Me ! &nbsp;&nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603595-67df9b05-b887-4d41-8d39-5ce4cd7f4ac3.gif' width="60">
 </h1>
 <br><br><br>
 <p align="center">
@@ -70,7 +70,7 @@
 <br><br><br>
 
 <!-- Github graphs -->
-<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50px">&nbsp; Github Stats ! &nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50px">
+<h1 align="center"><img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50">&nbsp; Github Stats ! &nbsp;<img align="center" src='https://user-images.githubusercontent.com/60877626/138603194-5e70860e-02d6-4ada-97c1-f969900dd3ce.gif' width="50">
 </h1>
 <br><br><br>
 <p align="center">
