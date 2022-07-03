@@ -12,7 +12,7 @@
 👋🏼 I am a 23 years old French junior developer who is passionate about computers science and new technologies ! 👨🏻‍💻 
 I have just kickstarted my career as a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 as well as a front web developer at <a href="https://www.bedrockstreaming.com/">@BedrockStreaming</a> ⚫️ after completing my master's degree the year 2021 at Lyon 1 University 🎓
 
-I am also a founding member and president of the <a href="https://lacruz.org/">@LaCruz</a> 🟡 association and one of the organizers of the  <a href="https://lyonjs.org/">@LyonJS</a> 🦁 !
+I am also one of the organizers of the  <a href="https://lyonjs.org/">@LyonJS</a> 🦁 and a founding member and president of the <a href="https://lacruz.org/">@LaCruz</a> 🟡 association !
 </h4>
 
 <br><br>
