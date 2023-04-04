@@ -85,7 +85,7 @@ I am also one of the organizers of the  <a href="https://lyonjs.org/">@LyonJS</a
 <br><br><br>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=CruuzAzul&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruuzAzul&layout=compact&hide_border=true&theme=react&bg_color=00000000">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruuzAzul&layout=compact&hide_border=true&hide=dart,c%2B%2B,ruby,Cmake,swift,c,kotlin,objective-c&theme=react&bg_color=00000000">
 </p>
 <p align="center">
   <img alt="🐍 Snake graph" src="https://github.com/CruuzAzul/CruuzAzul/blob/output/github-contribution-grid-snake.svg">
