@@ -16,16 +16,6 @@ I have just kickstarted my career as a web consultant at <a href="https://www.ze
 I am also one of the organizers of the  <a href="https://lyonjs.org/">@LyonJS</a> 🦁 <a href="https://appwrite.io/heroes">@Appwrite</a> Hero 🦸🏼‍♂️ and <a href="https://www.remotion.dev/experts/mickael-alves">@Remotion</a> Expert 🎬 !
 </h4>
 
-<br>
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/60877626/229935448-2dbfda91-c4b5-45a9-86d5-327862a8329d.png" height="100px">
-	&nbsp;&nbsp;
-	<img src="https://user-images.githubusercontent.com/60877626/229935401-fd876c96-5925-4e8f-92ac-ddd2f611d65d.png" height="100px">
-	&nbsp;&nbsp;
-	<img src="https://user-images.githubusercontent.com/60877626/229937021-c3e38019-d349-4647-bc7c-5b6a53626523.png" height="100px">
-</p>
-
 
 <br>
 
