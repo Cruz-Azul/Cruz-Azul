@@ -11,7 +11,7 @@
 <h4 align="center">
 
 👋🏼 I am a 24 years old French developer who is passionate about computers science and new technologies ! 👨🏻‍💻 
-I have just kickstarted my career as a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 as well as a front web developer at <a href="https://www.bedrockstreaming.com/">@BedrockStreaming</a> ⚫️ Besides that I am also a French conference speaker and I give courses at Epitech Digital Lyon 🎓
+I am currently working as a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 as well as a front web developer at <a href="https://www.bedrockstreaming.com/">@BedrockStreaming</a> ⚫️ Besides that I am also a French conference speaker and I give courses at Epitech Digital Lyon 🎓
 
 I am also one of the organizers of the  <a href="https://lyonjs.org/">@LyonJS</a> 🦁 <a href="https://appwrite.io/heroes">@Appwrite</a> Hero 🦸🏼‍♂️ and <a href="https://www.remotion.dev/experts/mickael-alves">@Remotion</a> Expert 🎬 !
 </h4>
