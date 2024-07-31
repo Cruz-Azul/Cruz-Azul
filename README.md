@@ -10,7 +10,7 @@
 
 <h4 align="center">
 
-👋🏼 Web Maker and passionate speaker about computing and new technologies! 👨🏻‍💻
+👋🏼 Web Maker, application builder and passionate speaker about web, design, computing, and new technologies! 👨🏻‍💻
 
 I am currently a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 Alongside this, I love sharing knowledge by teaching at schools or giving talks at conferences. I am a co-organizer of <a href="https://lyonjs.org/">@LyonJS</a> 🦁, an <a href="https://appwrite.io/heroes">@Appwrite</a> Hero 🦸🏼‍♂️, and a <a href="https://www.remotion.dev/experts/mickael-alves">@Remotion</a> Expert 🎬.
 </h4>
