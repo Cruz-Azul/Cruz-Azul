@@ -1,21 +1,13 @@
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/60877626/138601059-95ee36dc-5e15-4b0b-b88b-338df28f8b30.png">
-</p>
-
-<br>
-
-<p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?color=%2321B9CB&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B+I'm+Micka%C3%ABl+Alves+aka+CruuzAzul+%F0%9F%94%B5">
 </p>
 
 <h4 align="center">
 
-👋🏼 Web Maker, application builder and passionate speaker about web, design, computing, and new technologies! 👨🏻‍💻
+👋🏼 Web Maker, application builder, and passionate speaker on web development, design, computing, and new technologies! 👨🏻‍💻
 
-I am currently a web consultant at <a href="https://www.zenika.com/">@Zenika</a> 🔴 Alongside this, I love sharing knowledge by teaching at schools or giving talks at conferences. I am a co-organizer of <a href="https://lyonjs.org/">@LyonJS</a> 🦁, an <a href="https://appwrite.io/heroes">@Appwrite</a> Hero 🦸🏼‍♂️, and a <a href="https://www.remotion.dev/experts/mickael-alves">@Remotion</a> Expert 🎬.
+Currently a web consultant at <a href="https://www.zenika.com">@Zenika</a> 🔴, I also enjoy sharing my knowledge through teaching and speaking at conferences. I’m a co-organizer of <a href="https://lyonjs.org/">@LyonJS</a> 🦁, an <a href="https://appwrite.io/heroes">@Appwrite</a> Hero 🦸🏼‍♂️, and a <a href="https://www.remotion.dev/experts/mickael-alves">@Remotion</a> Expert 🎬
 </h4>
-
-
 <br>
 
 
@@ -53,8 +45,7 @@ I am currently a web consultant at <a href="https://www.zenika.com/">@Zenika</a>
 		<img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> &nbsp;
 	<a href="https://twitter.com/CruuzAzul" target="blank">
-		<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
+		<img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 	</a> &nbsp;
 	<a href="https://dev.to/cruzazul" target="blank">
 		<img align="center" src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" />
